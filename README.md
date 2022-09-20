@@ -1,5 +1,5 @@
 # orenburg_chemp
-Solving the case of the Orenburg Region RSV Championship "Digital Breakthrough: AI Season".
+Чемпионат Оренбургской области | РСВ "Цифровой прорыв"
 
 22-е Место
 
